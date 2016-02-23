@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<OpennessReadConf>
+	<attribute>id_</attribute>
+	<attribute>userId</attribute>
+	<attribute>groupId</attribute>
+	<attribute>type_</attribute>
+	<attribute>className</attribute>
+	<table>openness_interaction_auditlog</table>
+	<id>id_</id>
+	<user>
+		<userId>46341</userId>
+		<config>
+			<filterthreshold>0.0</filterthreshold>
+			<knowledge>true</knowledge>
+			<knowledgethreshold>1</knowledgethreshold>
+			<observation>false</observation>
+			<observationthreshold>0.4</observationthreshold>
+			<temporal>false</temporal>
+			<temporalthreshold>1</temporalthreshold>
+			<spatial>false</spatial>
+			<spatialthreshold>0.0</spatialthreshold>
+		</config>
+		<fuzzy>type_</fuzzy>
+		<fuzzy>className</fuzzy>
+	</user>
+	<user>
+		<userId>68325</userId>
+		<config>
+			<filterthreshold>0.0</filterthreshold>
+			<knowledge>true</knowledge>
+			<knowledgethreshold>0.1</knowledgethreshold>
+			<observation>false</observation>
+			<observationthreshold>0.4</observationthreshold>
+			<temporal>true</temporal>
+			<temporalthreshold>0.8</temporalthreshold>
+			<spatial>false</spatial>
+			<spatialthreshold>0.4</spatialthreshold>
+		</config>
+		<fuzzy>type_</fuzzy>
+		<fuzzy>className</fuzzy>
+	</user>
+</OpennessReadConf>

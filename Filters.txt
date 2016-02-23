@@ -1,0 +1,65 @@
+
+******************* user: 68325
+{default=0.0, MBMESSAGE_ADD_MESSAGE=1.0}
+{default=0.0, com.liferay.portlet.messageboards.model.MBMessage=1.0}
+
+{default=0.0, DELETE=1.0, MBMESSAGE_ADD_MESSAGE=0.8}
+{default=0.0, com.liferay.portlet.messageboards.model.MBMessage=1.0}
+
+{default=0.0, DELETE=0.8, UPDATE=1.0, MBMESSAGE_ADD_MESSAGE=0.6400000000000001}
+{default=0.0, com.liferay.portlet.messageboards.model.MBMessage=1.0}
+
+{CREATE=1.0, default=0.0, DELETE=0.6400000000000001, UPDATE=0.8, MBMESSAGE_ADD_MESSAGE=0.5120000000000001}
+{default=0.0, com.liferay.portlet.messageboards.model.MBMessage=1.0}
+
+{CREATE=0.8, default=0.0, DELETE=0.9, UPDATE=0.6400000000000001, MBMESSAGE_ADD_MESSAGE=0.40960000000000013}
+{default=0.0, com.liferay.portlet.messageboards.model.MBMessage=1.0}
+
+{CREATE=0.6400000000000001, default=0.0, REM_TAG_ASSOC=1.0, DELETE=0.8, UPDATE=0.5120000000000001, MBMESSAGE_ADD_MESSAGE=0.32768000000000014}
+{default=0.0, com.liferay.portlet.messageboards.model.MBMessage=1.0}
+
+{CREATE=0.5120000000000001, default=0.0, REM_TAG_ASSOC=0.8, DELETE=0.6400000000000001, UPDATE=0.9, MBMESSAGE_ADD_MESSAGE=0.2621440000000001}
+{default=0.0, com.liferay.portlet.messageboards.model.MBMessage=0.8, com.liferay.portlet.blogs.model.BlogsEntry=1.0}
+
+{CREATE=0.9, default=0.0, REM_TAG_ASSOC=0.6400000000000001, DELETE=0.5120000000000001, UPDATE=0.8, MBMESSAGE_ADD_MESSAGE=0.2097152000000001}
+{default=0.0, com.liferay.portlet.messageboards.model.MBMessage=0.9, com.liferay.portlet.blogs.model.BlogsEntry=0.8}
+
+{CREATE=0.8, default=0.0, REM_TAG_ASSOC=0.5120000000000001, DELETE=0.40960000000000013, UPDATE=0.9, MBMESSAGE_ADD_MESSAGE=0.1677721600000001}
+{default=0.0, com.liferay.portlet.messageboards.model.MBMessage=0.9, com.liferay.portlet.blogs.model.BlogsEntry=0.6400000000000001}
+
+{CREATE=0.6400000000000001, default=0.0, REM_TAG_ASSOC=0.40960000000000013, DELETE=0.32768000000000014, UPDATE=0.9, MBMESSAGE_ADD_MESSAGE=0.13421772800000006}
+{default=0.0, com.liferay.portlet.messageboards.model.MBMessage=0.8, com.liferay.portlet.blogs.model.BlogsEntry=0.9}
+
+*******************
+******************* user: 46341
+{CREATE=1.0, default=0.0}
+{default=0.0, com.liferay.portlet.messageboards.model.MBDiscussion=1.0}
+
+{CREATE=0.0, default=0.0, DELETE=1.0}
+{default=0.0, com.liferay.portlet.messageboards.model.MBDiscussion=1.0}
+
+{CREATE=0.0, default=0.0, DELETE=0.0}
+{default=0.0, com.liferay.portlet.messageboards.model.MBDiscussion=1.0}
+
+{CREATE=0.0, default=0.0, DELETE=0.0}
+{default=0.0, com.liferay.portlet.messageboards.model.MBDiscussion=1.0}
+
+{CREATE=0.0, default=0.0, DELETE=0.0}
+{default=0.0, com.liferay.portlet.messageboards.model.MBDiscussion=1.0}
+
+{CREATE=0.0, default=0.0, DELETE=0.0}
+{default=0.0, com.liferay.portlet.messageboards.model.MBDiscussion=1.0}
+
+{CREATE=0.0, default=0.0, DELETE=0.0}
+{default=0.0, com.liferay.portlet.messageboards.model.MBDiscussion=1.0}
+
+{CREATE=0.0, default=0.0, DELETE=0.0}
+{default=0.0, com.liferay.portlet.messageboards.model.MBDiscussion=1.0}
+
+{CREATE=0.0, default=0.0, DELETE=0.0}
+{default=0.0, com.liferay.portlet.messageboards.model.MBDiscussion=1.0}
+
+{CREATE=0.0, default=0.0, DELETE=0.0}
+{default=0.0, com.liferay.portlet.messageboards.model.MBDiscussion=1.0}
+
+*******************
